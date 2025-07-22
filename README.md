@@ -14,3 +14,15 @@ Let’s build something amazing together! 🚀
 - LinkedIn: https://www.linkedin.com/in/arafat-hossin-a82285202/
 - Email: arafathossin7616@gmail.com
 - Phone: 01829226755
+
+
+
+
+<br>
+
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=Arafat7616&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Arafat's Github Stats">
+
+</br>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Arafat7616&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/Arafat7616/github-readme-stats)
+
